@@ -4,7 +4,7 @@
 	"description":"A quick and dirty tool for attempting to count cards in an Uno deck.",
 	"embed":{
 		"width":950,
-		"height":1200,
+		"height":1440,
 		"file":"unocount.html"
 	},
 	"date":"September 2018"
